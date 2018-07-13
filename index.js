@@ -15,7 +15,7 @@ const questions = [
     correctAnswer: 'Sacramento'
   },
     {
-    question: 'What is the capital of Florida',
+    question: 'What is the capital of Florida?',
     answers: ['Tampa', 'Tallahassee', 'Miami', 'Jacksonville'],
     correctAnswer: 'Tallahassee'
   },
@@ -45,7 +45,7 @@ const questions = [
     correctAnswer: 'Carson City'
   },
   {
-    question: 'What is the capital of Oklamhoma?',
+    question: 'What is the capital of Oklahoma?',
     answers: ['Stillwater', 'Tulsa', 'Oklahoma City', 'Norman'],
     correctAnswer: 'Oklahoma City'
   }
